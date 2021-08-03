@@ -1,0 +1,2 @@
+# QuiProjectModule
+ CMAKE-c++
